@@ -1,0 +1,30 @@
+{
+  "status": "extraction_complete",
+  "video_metadata": {
+    "video_id": "hPD1vfUaDl4",
+    "url": "https://youtu.be/hPD1vfUaDl4",
+    "duration_seconds": 2683.59,
+    "duration_formatted": "44:43",
+    "language": "ja",
+    "language_name": "Japanese (auto-generated)"
+  },
+  "transcript_summary": {
+    "total_entries": 703,
+    "transcript_file": "/mnt/f/nikkerag/temp/ch13_raw.md",
+    "json_file": "/mnt/f/nikkerag/temp/ch13_transcript.json"
+  },
+  "identified_characters": {
+    "指揮官": "Commander",
+    "シフティス": "Shifty/Shiftis",
+    "アブソルート": "Absolute Squad",
+    "カフェ": "Cafe Squad",
+    "ラプチャー": "Rapture",
+    "中性": "Neutral/Mediator",
+    "アリス": "Alice",
+    "ニア": "Nia"
+  },
+  "extraction_metadata": {
+    "extracted_at": "2025-11-03T01:00:50.434130",
+    "character_mentions_found": 8
+  }
+}

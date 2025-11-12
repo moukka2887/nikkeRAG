@@ -1,0 +1,14 @@
+# YouTube to RAG Documentation Tool
+# Required dependencies
+
+# Claude API for content analysis and structuring
+anthropic>=0.40.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Date/time utilities
+python-dateutil>=2.8.2
+
+# YouTube transcript extraction
+youtube-transcript-api>=0.6.0

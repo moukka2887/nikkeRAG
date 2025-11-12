@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "video_id": "hPD1vfUaDl4",
+    "title": "第13章 回歸",
+    "duration_seconds": 2682,
+    "language": "ja",
+    "transcript_type": "auto-generated",
+    "total_lines": 48
+  },
+  "transcript": [
+    {
+      "timestamp": "00:00",
+      "timestamp_seconds": 0,
+      "text": "# 第13章 回歸 - YouTube",
+      "is_music": false
+    },
+    {
+      "timestamp": "00:55",
+      "timestamp_seconds": 55,
+      "text": "[音楽]",
+      "is_music": true
+    },
+    {
+      "timestamp": "01:51",
+      "timestamp_seconds": 111,
+      "text": "作戦を開始します",
+      "is_music": false
+    },
+    {
+      "timestamp": "02:47",
+      "timestamp_seconds": 167,
+      "text": "[音楽]",
+      "is_music": true
+    },
+    {
+      "timestamp": "03:43",
+      "timestamp_seconds": 223,
+      "text": "まずアブソルート分隊及びカフェ3D分隊",
+      "is_music": false
+    },
+    {
+      "timestamp": "04:39",
+      "timestamp_seconds": 279,
+      "text": "が",
+      "is_music": false
+    },
+    {
+      "timestamp": "05:35",
+      "timestamp_seconds": 335,
+      "text": "地下施設を破壊するまで",
+      "is_music": false
+    },
+    {
+      "timestamp": "06:31",
+      "timestamp_seconds": 391,
+      "text": "地上のラプチャーと交戦してください",
+      "is_music": false
+    },
+    {
+      "timestamp": "07:27",
+      "timestamp_seconds": 447,
+      "text": "ファイナルフェイスつまり",
+      "is_music": false
+    },
+    {
+      "timestamp": "08:22",
+      "timestamp_seconds": 502,
+      "text": "無駄に後の光線の時にできるだけ",
+      "is_music": false
+    },
+    {
+      "timestamp": "09:18",
+      "timestamp_seconds": 558,
+      "text": "ラプチャーの数を減らすのが目的です",
+      "is_music": false
+    },
+    {
+      "timestamp": "10:14",
+      "timestamp_seconds": 614,
+      "text": "現在",
+      "is_music": false
+    },
+    {
+      "timestamp": "11:10",
+      "timestamp_seconds": 670,
+      "text": "外装場所へラプチャーたちが押し寄せて",
+      "is_music": false
+    },
+    {
+      "timestamp": "12:06",
+      "timestamp_seconds": 726,
+      "text": "いるため",
+      "is_music": false
+    },
+    {
+      "timestamp": "13:02",
+      "timestamp_seconds": 782,
+      "text": "男性が予想されますが",
+      "is_music": false
+    },
+    {
+      "timestamp": "13:58",
+      "timestamp_seconds": 838,
+      "text": "[音楽]",
+      "is_music": true
+    },
+    {
+      "timestamp": "14:54",
+      "timestamp_seconds": 894,
+      "text": "精鋭が全員",
+      "is_music": false
+    },
+    {
+      "timestamp": "15:49",
+      "timestamp_seconds": 949,
+      "text": "該当作戦に参加しています",
+      "is_music": false
+    },
+    {
+      "timestamp": "16:45",
+      "timestamp_seconds": 1005,
+      "text": "敗北するはずがないと思います中性",
+      "is_music": false
+    },
+    {
+      "timestamp": "17:41",
+      "timestamp_seconds": 1061,
+      "text": "心がすごいわね",
+      "is_music": false
+    },
+    {
+      "timestamp": "18:37",
+      "timestamp_seconds": 1117,
+      "text": "もちろんです私はあなたの力を信じてい",
+      "is_music": false
+    },
+    {
+      "timestamp": "19:33",
+      "timestamp_seconds": 1173,
+      "text": "ますから",
+      "is_music": false
+    },
+    {
+      "timestamp": "20:29",
+      "timestamp_seconds": 1229,
+      "text": "私も",
+      "is_music": false
+    },
+    {
+      "timestamp": "21:25",
+      "timestamp_seconds": 1285,
+      "text": "私たちの文体の力を信じています",
+      "is_music": false
+    },
+    {
+      "timestamp": "22:21",
+      "timestamp_seconds": 1341,
+      "text": "はい私も皆さんを信じます",
+      "is_music": false
+    },
+    {
+      "timestamp": "23:16",
+      "timestamp_seconds": 1396,
+      "text": "成功させましょう",
+      "is_music": false
+    },
+    {
+      "timestamp": "24:12",
+      "timestamp_seconds": 1452,
+      "text": "必ず",
+      "is_music": false
+    },
+    {
+      "timestamp": "25:08",
+      "timestamp_seconds": 1508,
+      "text": "任せて",
+      "is_music": false
+    },
+    {
+      "timestamp": "26:04",
+      "timestamp_seconds": 1564,
+      "text": "指揮官",
+      "is_music": false
+    },
+    {
+      "timestamp": "27:00",
+      "timestamp_seconds": 1620,
+      "text": "準備はできましたか",
+      "is_music": false
+    },
+    {
+      "timestamp": "27:56",
+      "timestamp_seconds": 1676,
+      "text": "侵入の命令を",
+      "is_music": false
+    },
+    {
+      "timestamp": "28:52",
+      "timestamp_seconds": 1732,
+      "text": "[拍手]",
+      "is_music": true
+    },
+    {
+      "timestamp": "29:48",
+      "timestamp_seconds": 1788,
+      "text": "シフティス",
+      "is_music": false
+    },
+    {
+      "timestamp": "30:43",
+      "timestamp_seconds": 1843,
+      "text": "作戦の状況は",
+      "is_music": false
+    },
+    {
+      "timestamp": "31:39",
+      "timestamp_seconds": 1899,
+      "text": "現在",
+      "is_music": false
+    },
+    {
+      "timestamp": "32:35",
+      "timestamp_seconds": 1955,
+      "text": "地下基地の壁面に",
+      "is_music": false
+    },
+    {
+      "timestamp": "33:31",
+      "timestamp_seconds": 2011,
+      "text": "爆発物の設置を完了しました",
+      "is_music": false
+    },
+    {
+      "timestamp": "34:27",
+      "timestamp_seconds": 2067,
+      "text": "アブソルートと",
+      "is_music": false
+    },
+    {
+      "timestamp": "35:23",
+      "timestamp_seconds": 2123,
+      "text": "縦3D分隊が",
+      "is_music": false
+    },
+    {
+      "timestamp": "36:19",
+      "timestamp_seconds": 2179,
+      "text": "モダニアを操作中です",
+      "is_music": false
+    },
+    {
+      "timestamp": "37:15",
+      "timestamp_seconds": 2235,
+      "text": "適当に爆発させちゃダメなの",
+      "is_music": false
+    },
+    {
+      "timestamp": "38:10",
+      "timestamp_seconds": 2290,
+      "text": "目標地点をある程度特定しないと",
+      "is_music": false
+    },
+    {
+      "timestamp": "39:06",
+      "timestamp_seconds": 2346,
+      "text": "地上へ上がってきた時の位置を推測でき",
+      "is_music": false
+    },
+    {
+      "timestamp": "40:02",
+      "timestamp_seconds": 2402,
+      "text": "ません",
+      "is_music": false
+    },
+    {
+      "timestamp": "40:58",
+      "timestamp_seconds": 2458,
+      "text": "どこにいるかわからない状態で爆発させて",
+      "is_music": false
+    },
+    {
+      "timestamp": "41:54",
+      "timestamp_seconds": 2514,
+      "text": "いきなり皆さんに後ろから現れたらどう",
+      "is_music": false
+    },
+    {
+      "timestamp": "42:50",
+      "timestamp_seconds": 2570,
+      "text": "するんですか",
+      "is_music": false
+    },
+    {
+      "timestamp": "43:46",
+      "timestamp_seconds": 2626,
+      "text": "それはそうね",
+      "is_music": false
+    }
+  ]
+}

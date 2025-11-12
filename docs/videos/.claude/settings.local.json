@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__youtube-transcript__get_transcript",
+      "Bash(yt-dlp:*)",
+      "Bash(python3:*)"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "youtube-transcript"
+  ]
+}

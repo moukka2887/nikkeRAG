@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific - large binary/temp files
+downloads/
+bin/
+share/
+yt_dlp/
+yt_dlp-2025.10.22.dist-info/
+
+# Logs and temp processing files
+*.log
+temp/*.log
+temp/*_log.txt
+
+# Large data files (keep structure, ignore content)
+# temp/ folder structure is kept but large files ignored
+
+# Unused/backup files
+unused/
+temp/
+
+# GitHub instructions (if needed, remove this line to include)
+.github/instructions/codacy.instructions.md

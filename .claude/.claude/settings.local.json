@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node --version:*)",
+      "Bash(npm --version:*)",
+      "Bash(npm install:*)",
+      "Bash(npx:*)",
+      "Bash(pip install:*)",
+      "Bash(pipx install:*)",
+      "Bash(sudo apt update:*)",
+      "Bash(sudo apt install:*)",
+      "Bash(uv pip install:*)",
+      "Bash(yt-dlp:*)",
+      "Bash(source /mnt/f/nikkerag/.venv/bin/activate:*)",
+      "Bash(ln:*)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "youtube-transcript"
+  ]
+}

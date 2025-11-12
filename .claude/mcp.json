@@ -1,0 +1,16 @@
+
+{
+    "mcpServers": {
+      "youtube-transcript": {
+        "command": "uvx",
+        "args": ["mcp-youtube-transcript"]
+      },
+      "yt-dlp": {
+        "command": "npx",
+        "args": ["-y", "@kevinwatt/yt-dlp-mcp"],
+        "env": {
+          "YTDLP_DOWNLOADS_DIR": "/mnt/f/nikkerag/downloads"
+        }
+      }
+    }
+  }
