@@ -9,7 +9,7 @@ language: ja
 transcript_type: auto-generated
 duration_ms: 6660000
 date_processed: 2025-11-05
-tags: [NIKKE, 第36章, 覚醒, Awakening, 灰姑娘, Cinderella, シンデレラ, 指挥官, Commander, 王子様, レビアタン, Leviathan, ベヒモス, Behemoth, 意識, Consciousness, 記憶, Memory, 思い出, Memory/Recollection, グレイブ, Grave, 人魚姫, Little Mermaid, ヘンゼル, Hansel, グレーテル, Gretel, エイブ, Abe, 鏡, Mirror, 古い物語, Old Tales, 家族, Family, 束縛, Binding, 信頼, Trust, 解き放つ, Release, 自由, Freedom, 過去との対面, Facing the Past, 新しい関係, New Relationships, ダークマター, Dark Matter, ガチャ, Gacha/Lottery, 実験, Experiment, 人間型, Human-like, 融合, Fusion, 液体金属, Liquid Metal, 重力, Gravity, 再生, Regeneration, 戦力, Combat Power, 思い出の品, Memento, コア, Core, アイドル, Idol, TTスター, TT Stars, 引退ライブ, Retirement Concert, イングリッド, Ingrid, オーバーシア, Oversight/Overseer, 観察官, Observer/Inspector, アニス, Anis, ネオン, Neon, 政治, Politics, 権力, Power, 連携, Coordination, 音声, Voice, メッセージ, Message, 過去の仲間, Past Comrades, 救い出す, Save/Rescue, 100年, 100 years, 目的, Purpose, 進化, Evolution, 新しい時代, New Era, 戦斗, Battle, 関係, Relationship, 精霊園, Spirit Garden, 海, Sea, 黒い液体, Black Liquid, ガチャシステム, Gacha System]
+tags: [NIKKE, 第36章, 覚醒, Awakening, 灰姑娘, Cinderella, シンデレラ, 指挥官, Commander, 王子様, レビアタン, Leviathan, ベヒモス, Behemoth, 意識, Consciousness, 記憶, Memory, 思い出, Memory/Recollection, グレイブ, Grave, 格拉维, 人魚姫, Little Mermaid, ヘンゼル, Hansel, グレーテル, Gretel, エイブ, Abe, 艾比, Grave=Abe身份揭示, Identity Revelation, 意识转移, Consciousness Transfer, 鏡, Mirror, 最も頭の良い鏡, 古い物語, Old Tales, 家族, Family, 束縛, Binding, 信頼, Trust, 解き放つ, Release, 自由, Freedom, 過去との対面, Facing the Past, 新しい関係, New Relationships, ダークマター, Dark Matter, ガチャ, Gacha/Lottery, 実験, Experiment, 人間型, Human-like, 融合, Fusion, 液体金属, Liquid Metal, 重力, Gravity, 再生, Regeneration, 戦力, Combat Power, 思い出の品, Memento, コア, Core, アイドル, Idol, TTスター, TT Stars, 引退ライブ, Retirement Concert, イングリッド, Ingrid, オーバーシア, Oversight/Overseer, 観察官, Observer/Inspector, アニス, Anis, ネオン, Neon, 政治, Politics, 権力, Power, 連携, Coordination, 音声, Voice, メッセージ, Message, 過去の仲間, Past Comrades, 救い出す, Save/Rescue, 100年, 100 years, 目的, Purpose, 進化, Evolution, 新しい時代, New Era, 戦斗, Battle, 関係, Relationship, 精霊園, Spirit Garden, 海, Sea, 黒い液体, Black Liquid, ガチャシステム, Gacha System, Inherit Squad, Heretic形態, Nikke形態]
 timeline: Cinderellaの真実の覚醒と過去との再会
 timeline_note: Cinderella が実は長く眠っていただけで意識を保っていたことが明かされ、指挥官らとともに Old Tales の仲間たちの意識を復活させる。その過程で Leviathan と Behemoth による実験の全容が明らかになり、新しい章が幕を開ける。
 ---
@@ -22,7 +22,7 @@ timeline_note: Cinderella が実は長く眠っていただけで意識を保っ
 
 **视频时长**: 111分钟 (6660秒)
 
-**主要角色**: Cinderella(灰姑娘)/Anachiro、指挥官(王子様)、Leviathan(レビアタン)、Behemoth(ベヒモス)、Grave(グレイブ)、Little Mermaid(人魚姫/Siren)、Hansel(ヘンゼル)、Gretel(グレーテル)、Abe(エイブ)、Rapi(ラピ)、Anis(アニス)、Neon(ネオン)、Ingrid(イングリッド)、Maxwell(マクスウェル)、Absolute(アブソリュート)
+**主要角色**: Cinderella(灰姑娘)/Anachiro、指挥官(王子様)、Leviathan(レビアタン)、Behemoth(ベヒモス)、Grave(グレイブ)/Abe(艾比)【同一人物】、Little Mermaid(人魚姫/Siren)、Hansel(ヘンゼル)、Gretel(グレーテル)、Rapi(ラピ)、Anis(アニス)、Neon(ネオン)、Ingrid(イングリッド)、Maxwell(マクスウェル)、Absolute(アブソリュート)
 
 **主要场景**: 地上基地 → Behemoth隠れ場所 → 時間領域 → 戦場 → Spirit Garden記憶空間 → 黒い海
 
@@ -86,10 +86,13 @@ Cinderella が初めて真実を語る。彼女は決して眠っていたので
 **核心剧情**:
 Cinderella が古い鏡に触れた瞬間、過去との繋がりが目覚める。Spirit Garden という精神領域に通じる扉が開かれ、100 年前に別れた仲間たちの意識が応答する。
 
-Siren は「最も温かかった人」として記憶されており、Hansel と Gretel は「互いを大切にしていた双子」として、Abe は「最も頭の良い鏡」として描写される。これらの再会は単なる感情的な出来事ではなく、古い時代から新しい時代への架橋を象徴している。
+Siren は「最も温かかった人」として記憶されており、Hansel と Gretel は「互いを大切にしていた双子」として、**Grave/Abe は「最も頭の良い鏡」**として描写される。これらの再会は単なる感情的な出来事ではなく、古い時代から新しい時代への架橋を象徴している。
 
 **关键对话**:
 > Cinderella: "精霊... グレイブ... 本当に久しぶりね。"
+> Cinderella: "エイブ私の1番美しい鏡" (Abe，我最聪明的镜子)
+
+**重要身份揭示**: Cinderella在回忆中明确将Grave称为"Abe"（艾比），确认**Grave就是Abe的Nikke形态**
 > Siren: "あなたの仲間でしょう。"
 > Cinderella: "会いたいわ。"
 
@@ -258,7 +261,11 @@ Rapi は Abe からヒーロー精神についての教えを受け、それは�
 - **本章**: 記憶の中で蘇る
 - **关键设定**: 家族的な絆の象徴
 
-### Abe(エイブ)
+### Abe(エイブ) / Grave(グレイブ/格拉维)
+- **重要身份揭示**: Grave就是Abe（艾比）
+  - **Cinderella的记忆**: "エイブ私の1番美しい鏡"（Abe，我最聪明的镜子）
+  - **身份确认**: Grave是Abe的意识转移到Nikke身体后的形态
+  - **现任身份**: Inherit Squad成员，Elysion制造
 - **特征**: 「最も頭の良い鏡」、全体の知性担当
 - **本章**: ヒーロー精神について Rapi を教える
 - **关键设定**: 科学的知識と倫理的判断力の統合
@@ -434,11 +441,35 @@ Rapi は Abe からヒーロー精神についての教えを受け、それは�
 Old Tales メンバーとの再会は、単なる懐かしさの感情ではなく、二つの時代の統合を意味する。
 
 **時代の対比**:
-- **過去の世代**: Cinderella, Siren, Hansel & Gretel, Abe
+- **過去の世代**: Cinderella, Siren, Hansel & Gretel, Abe (現在はGrave/格拉维として存在)
 - **現在の世代**: Rapi, Absolute, Neon, Anis
 - **架橋の役割**: 指挥官と新しいメンバーたち
+- **重要発見**: Grave就是Abe，意识转移到Nikke身体中，成为Inherit Squad成员
 
 Cinderella が Spirit Garden を通じて過去を呼び覚ますことで、単なる記憶の検索ではなく、過去の存在の現在への影響を実現させている。
+
+### Grave=Abe身份揭示的重要意义
+
+**身份确认**:
+- **日文原文**: "エイブ私の1番美しい鏡"（Abe，我最聪明的镜子）
+- **中文表述**: Grave（格拉维）就是Abe（艾比）
+- **身份转换**: 人类科学家 → Heretic → Nikke形态（Inherit Squad）
+
+**三重身份的时间线**:
+1. **96年前**: 人类科学家Abe，第二代童话模型创造者
+2. **Heretic时期**: 转化为Heretic形态，保留意识和记忆
+3. **现在**: 作为Nikke "Grave"存在于Inherit Squad
+
+**Cinderella记忆中的描述**:
+- "最も頭の良い鏡"（最聪明的镜子）
+- 全体的知性担当
+- 科学知識と倫理的判断力の統合者
+
+**重要性**:
+- 揭示了人类→Heretic→Nikke的转换可能性
+- 解释了Grave为何拥有科学家级别的知识
+- 连接了Old Tales时代与现代
+- 证明意识可以跨越身体形态保存
 
 ## 3. 多重の物語構造：政治と戦闘の並行展開
 

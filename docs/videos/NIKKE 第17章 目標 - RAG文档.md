@@ -9,7 +9,7 @@ language: ja
 transcript_type: auto-generated
 duration_ms: 3900000
 date_processed: 2025-11-04
-tags: [NIKKE, 第17章, 目標, Pilgrim揭秘, Rapunzel, Snow White, Grave, Unchained起源, 第一次侵攻, Goddess分隊, 旧指揮官, RH血型, Metis危機, Syuen懇求, 輿論反轉, 英雄計劃, 防御壁作戰, Yuni黑化]
+tags: [NIKKE, 第17章, 目標, Pilgrim揭秘, Rapunzel, Snow White, Guren, Unchained起源, 第一次侵攻, Goddess分隊, 旧指揮官, RH血型, Metis危機, Syuen懇求, 輿論反轉, 英雄計劃, 防御壁作戰, Yuni黑化]
 timeline: 現在（第16章指揮官被暗殺後，Rapunzel救援並帶往Pilgrim據點）
 timeline_note: Exotic暗殺後Rapunzel救援指揮官，前往每月1日開放的Pilgrim約定之地，揭露Unchained真相與第一次侵攻歷史，返回Ark面對Metis/NIMPH輿論危機
 ---
@@ -19,7 +19,7 @@ timeline_note: Exotic暗殺後Rapunzel救援指揮官，前往每月1日開放�
 **标题**: NIKKE 第17章 目標
 **类型**: 游戏主线剧情
 **视频时长**: 65分00秒 (3900秒)
-**主要角色**: 指挥官、Rapunzel、Snow White、Grave、Counters分队、Metis、Syuen、Yuni
+**主要角色**: 指挥官、Rapunzel、Snow White、Guren、Counters分队、Metis、Syuen、Yuni
 **主要场景**: 雪地废弃小屋 → Pilgrim聚会地 → 研究所遗址话题 → Ark街道 → Missilis本社 → Metis房间
 **时间跨度**: 从指挥官被救后恢复到返回Ark面对危机（约2-3天）
 
@@ -28,7 +28,7 @@ timeline_note: Exotic暗殺後Rapunzel救援指揮官，前往每月1日開放�
 
 章节开场，指挥官在被Exotic暗杀后腹部中枪生死未卜，幸得Rapunzel及时发现并施救。在简陋的雪地小屋中苏醒后，Rapunzel坦白自己知晓Unchained的秘密，并邀请指挥官前往"每月1日开放的约定之地"——Pilgrim的秘密聚会地。
 
-在这个位于北部雪原深处的据点，指挥官与传说中的Pilgrim领袖们会面：**Snow White**（白雪公主，Goddess分队前队长）、**Grave**（墓碑，Goddess分队智者）、以及**Rapunzel**（长发公主）。三人揭露了震撼性的历史真相：
+在这个位于北部雪原深处的据点，指挥官与传说中的Pilgrim领袖们会面：**Snow White**（白雪公主，Goddess分队前队长）、**Guren**（红莲，Goddess分队成员）、以及**Rapunzel**（长发公主）。三人揭露了震撼性的历史真相：
 
 **Unchained的起源**：
 Unchained并非人造技术成果，而是由"某个人的特殊血液"制成。在**第一次Rapture侵攻**（约100年前）期间，Goddess分队在与Heretic（异端者，Rapture化的Nikke）战斗时偶然发现：某位人类的血液对被侵蚀的Nikke有致命伤害。这位人类正是当时的传奇指挥官，拥有稀有的"特殊血型"（暗示RH阴性或类似稀有血型）。
@@ -210,9 +210,9 @@ Anis的性格发生反常变化，从一贯的"不信任"变得神经质地关�
 
 **场景**: Pilgrim秘密据点（雪原深处的建筑）
 **关键事件**:
-- 抵达目的地，Snow White和Grave已在等候
+- 抵达目的地，Snow White和Guren已在等候
 - Snow White因未查看消息向众人道歉
-- 揭露Grave也是Pioneer（先锋者/Goddess分队）成员
+- 揭露Guren也是Pioneer（先锋者/Goddess分队）成员
 - 提及Marian已被托付给"Crown"和"Chime"（白骑士姐妹）照顾
 - Rapture袭击，Pilgrim们协同战斗
 - 指挥官目睹Pilgrim真正的火力
@@ -272,11 +272,12 @@ Counters关心Marian，Snow White透露：
 **关键事件**:
 - Snow White质问指挥官寻找Unchained的动机
 - 指挥官解释是为了让Nikke"自己选择未来"
-- Rapunzel和Grave赞同指挥官的理想
+- Rapunzel和Guren赞同指挥官的理想
 - Snow White回忆Red Hood与过去的指挥官
 - 揭露Unchained由"旧指挥官的特殊血液"制成
 - 旧指挥官在第一次侵攻时期失踪
-- 研究所位于"Ark西侧，巨大湖泊下方"
+- **研究所位置揭露**: "アークから西、巨大な湖の橋"（Ark以西，巨大湖泊的桥下）
+- Rapunzel确认记录仍保存完好
 - Snow White警告：这份知识会让世界剧烈动荡
 
 **核心剧情**:
@@ -316,7 +317,7 @@ Snow White直截了当询问动机：
 > 指挥官: "ニケが自ら未来を選択できる世界が（欲しい）"
 > （想要Nikke能够自己选择未来的世界）
 
-这个回答让Rapunzel和Grave感动：
+这个回答让Rapunzel和Guren感动：
 
 > Rapunzel: "本当に自分で選択するニケだなんて、統制を通じて安定を求めるアークのシステムとはすごく距離のある理想的な答えです"
 > （真正能自己选择的Nikke，这与通过统制追求稳定的Ark系统相距甚远的理想答案）
@@ -324,7 +325,7 @@ Snow White直截了当询问动机：
 > Rapunzel: "でも不思議なことに私はブラザーのその理想論が好きです。だから賛同したいと思います"
 > （但不可思议的是，我喜欢Brother的这种理想论。所以我想赞同）
 
-> Grave: "私は賛成だ教えてあげてもいいと思うがね"
+> Guren: "私は賛成だ教えてあげてもいいと思うがね"
 > （我赞成，我觉得可以告诉他）
 
 **Snow White的回忆 - Red Hood**:
@@ -361,13 +362,13 @@ Rapunzel开始讲述真相：
 > Counters: "何をそれ人の血で弾丸を作るなんて！だから製造方法が知られていなかったのね"
 > （什么！用人的血制造子弹！所以制造方法才没被公开）
 
-> Grave: "それが知られていたら、多分指揮官は戦場にも出られず一生血を抜かれることになっただろう"
+> Guren: "それが知られていたら、多分指揮官は戦場にも出られず一生血を抜かれることになっただろう"
 > （如果那个被知道了，恐怕指挥官连战场都上不了，会一辈子被抽血）
 
-> Grave: "しかもその男は素晴らしい指揮官だった。同じ時代を生きる者たちからも伝説と呼ばれた人だ"
+> Guren: "しかもその男は素晴らしい指揮官だった。同じ時代を生きる者たちからも伝説と呼ばれた人だ"
 > （而且那个人是优秀的指挥官。连同时代的人都称他为传说）
 
-> Grave: "当時の状況はヘルティックを一気に殺すよりも多数のラプチャーの構成を防ぎ留める指揮官の方が重要だったからな"
+> Guren: "当時の状況はヘルティックを一気に殺すよりも多数のラプチャーの構成を防ぎ留める指揮官の方が重要だったからな"
 > （当时的情况是，比起一口气杀死Heretic，阻止大量Rapture编队的指挥官更重要）
 
 **旧指挥官的下落**:
@@ -405,6 +406,13 @@ Rapunzel开始讲述真相：
 > Rapunzel: "悪から西、巨大な湖の橋、そこに隠されている"
 > （Ark以西，巨大湖泊的桥下，藏在那里）
 
+**【重要地理信息】研究所位置**:
+- **方位**: Ark以西（West of Ark）
+- **地标**: 巨大な湖の橋（巨大湖泊的桥梁）
+- **隐藏方式**: 桥下隐藏的地下设施
+- **访问记录**: Rapunzel曾访问过，记录完好保存
+- **后续验证**: 第18-19章Counters小队成功到达此研究所
+
 **Snow White的严厉警告**:
 
 > Snow White: "その方法を知った瞬間からお前たちの敵はラプチャーだけではなくなる"
@@ -432,14 +440,35 @@ Rapunzel开始讲述真相：
 **Rapunzel的感慨 - Goddess分队的约定**:
 送别途中，Rapunzel透露了Pilgrim们的"约定"：
 
+> 指挥官: "一次進行の時？"（第一次侵攻的时候？）
+> Rapunzel: "いいえアークができてもう少し時間が経った時です"
+> （不，是方舟建成后又过了一段时间的时候）
+
+**【重要时间点】约定的时间**：
+- **不是**第一次莱彻侵攻时期
+- **而是**Ark建成后过了一段时间
+- 意味着：Overzone撤退→Ark封锁完成→又过了一段时间后，Goddess成员们才重新聚首
+
 > Rapunzel: "みんな自分の目標がありますから、互いにそれに干渉しないとだいぶ前に約束しました"
 > （大家都有自己的目标，很久以前约定好不互相干涉）
 
 > Rapunzel: "離れ離れになって生きていた私たちが再会したときお互いの変わった姿を見て気づきました。もう前のように一つの目標に向かって生きていくことはできないと"
 > （分开生活的我们再会时，看到彼此改变的样子后意识到了。已经无法像从前那样朝着一个目标生活了）
 
+**三人约定的核心内容**：
+1. **互相尊重各自的人生目标**
+2. **不干涉彼此的选择**
+3. **每月1日见面确认安危**
+
 > Rapunzel: "その時決めたんです。互いの人生を尊重しよう。ただし1ヶ月に1回はあって正式は確認しようと"
-> （那时决定了。要尊重彼此的人生。但每月一次见面正式确认彼此安好）【字幕识别错误：原文可能是"正式/生死"】
+> （那时决定了。要尊重彼此的人生。但每月一次见面确认彼此安好）【字幕识别错误：原文可能是"生死/正式"】
+
+**背景原因**：
+- Goddess成员们在Ark建成后分散生活了一段时间
+- 再次重聚时，发现彼此都已改变
+- Snow White经历思考转换，性格大变
+- Dorothy、Rapunzel各自有了不同的目标
+- 无法再像战争时期那样为一个共同目标而战
 
 **Goddess分队的揭露**:
 Anis询问关于"一次侵攻的Nikke"和"传说的指挥官"，Rapunzel确认：
@@ -468,6 +497,43 @@ Counters提出帮忙寻找旧指挥官，但Rapunzel拒绝：
 
 > Rapunzel: "でもまだ行きたくないんです。私はまだ何も成し遂げていませんから"
 > （但我还不想去。因为我还什么都没做成）
+
+**【核心】Rapunzel留在地上的真正原因 - 战争中的约定**:
+
+Rapi追问为何不想回Ark，Rapunzel揭示了深层原因：
+
+> Rapunzel: "他の誰でもなく、私たちがあの戦争で一緒に泣いて笑って戦っていた私たちが"
+> （不是别人，正是我们，在那场战争中一起哭一起笑一起战斗的我们）
+
+> Rapunzel: "**約束したことがありますその約束が守れなかったから**"
+> （**曾经有过约定，因为没能遵守那个约定**）
+
+> Rapunzel: "**その罪滅ぼしのために、やらなければならないことがあるんです**"
+> （**为了赎罪，有必须要做的事情**）
+
+> Rapunzel: "**だからまだアークへ行きたくないんです**"
+> （**所以我还不想去Ark**）
+
+**【重要】两个不同的"约定"**：
+1. **战争中的约定**（过去）：
+   - 时间：在那场战争期间（Overzone时期）
+   - 对象：与一起战斗的同伴们（Goddess分队成员、指挥官）
+   - 内容：【原文未明确说明具体内容】
+   - 结果：**没能遵守**（約束が守れなかった）
+   - 后果：Rapunzel感到愧疚，认为必须赎罪
+
+2. **战后的约定**（Ark建成后过了一段时间）：
+   - 时间："アークができてもう少し時間が経った時"
+   - 对象：重聚后的Goddess成员（Snow White、Dorothy等）
+   - 内容：互相尊重各自目标，不干涉彼此选择，每月1日见面
+   - 原因：发现彼此都已改变，无法再像从前那样为一个目标而战
+
+**Rapunzel的心境**：
+- 战争中有过约定，但未能遵守 → 深感愧疚
+- 为了赎罪，必须留在地上完成某些事情
+- 即使想念旧指挥官，也不能回Ark
+- "私はまだ何も成し遂げていません"（我还什么都没做成）
+- 听到Goddess和指挥官仍被记得，感到欣慰："よかった、本当に良かったです"
 
 > Rapunzel: "他の誰でもなく私たちが、あの戦争で一緒に泣いて笑って戦っていた私たちが約束したことがあります。その約束が守れなかったからその罪滅ぼしのためにやらなければならないことがあるんです"
 > （不是别人，是我们，那场战争中一起哭、一起笑、一起战斗的我们约定过什么。因为没能守住那个约定，为了赎罪必须做些什么）
@@ -709,15 +775,70 @@ Yuni自言自语：
   - 幽默感（偶尔开暗示性玩笑）
   - 强烈的使命感和责任感
   - 对过去同伴有深厚感情
+- **重要设定：唯一的完整记忆保存者**:
+  - **关键揭示**: "私たちが喋っているこの過去の話は第一次ラプチャー進行の時のだって"（我们说的这些过去的事是**第一次莱彻侵攻**时期的）
+  - **时间跨度**: 约100年前的历史事件
+  - **独特地位**: Goddess分队中唯一完整记得第一次莱彻侵攻的成员
+  - **记忆来源**: 未经历思考转换，保留完整记忆
+  - **历史责任**: 向Snow White等失忆同伴讲述过去，保存Unchained起源真相
 - **角色功能**:
   - 第16-17章的关键NPC，引导指挥官前往真相
-  - Goddess分队中唯一完整记得第一次侵攻的成员
   - 保存着Unchained起源的完整记忆
   - 每月1日聚会的组织者之一
-- **未完成的约定**:
-  - 与旧指挥官及战友有某个重要誓言
-  - 因未完成而选择留在地表
-  - 拒绝返回Ark直到"赎罪"完成
+  - Snow White的"记忆外置硬盘"
+- **【重要】两个不同的"约定"**:
+
+**1. 战争中的约定（Overzone时期，未遵守）**:
+  - **时间**: "あの戦争"（那场战争）- 指Overzone时期的2个月防御战（约95年前）
+  - **背景**: 
+    * 轨道电梯作战失败后（96年前），Red Hood离去
+    * 人类全面撤退进入Ark
+    * Goddess分队守护Ark入口临时监视所
+    * 经历212次袭击，队长Lilyweiss战死，Lilith等成员阵亡
+    * 身心极限，补给耗尽，面临绝望
+  - **对象**: "一緒に泣いて笑って戦っていた私たち"（一起哭一起笑一起战斗的我们）
+    * Goddess分队成员（Snow White、Rapunzel、Dorothy等）
+    * 旧指挥官（Goddess专属指挥官）
+    * 可能包括Lilith、Lilyweiss等牺牲的成员
+  - **约定内容推测**: 【原文未明确，但根据上下文可推测】
+    * 可能约定：守护人类直到最后 / 夺回地表 / 全员一起回Ark
+    * 可能约定：不放弃任何同伴 / 保护指挥官安全
+    * Dorothy向Ark的请求也是约定的一部分："封鎖が終わったら私たちをアークに連れて行く"
+  - **未能遵守的原因推测**:
+    * **Ark的背叛**: 完成任务后Ark拒绝让Goddess进入
+    * **成员牺牲**: Lilith、Lilyweiss等人战死
+    * **指挥官失踪**: 旧指挥官可能在某次进攻后下落不明
+    * **被迫分散**: 无法全员一起进入Ark，被迫各自求生
+  - **结果**: **"約束が守れなかった"（没能遵守约定）**
+  - **Rapunzel的愧疚**: 
+    * "他の誰でもなく、私たちがあの戦争で一緒に泣いて笑って戦っていた私たちが約束したことがあります"
+    * 强调"不是别人，正是我们"- 表明约定的神圣性和个人责任感
+    * "その罪滅ぼしのために、やらなければならないことがあるんです"（为了赎罪，有必须要做的事情）
+  - **影响**: 
+    * Rapunzel拒绝回Ark: "だからまだアークへ行きたくないんです"
+    * 即使想念旧指挥官也不敢调查："きっと会いたくてたまらなくなりますから"
+    * "私はまだ何も成し遂げていません"（我还什么都没做成）
+    * 必须完成某些事情才能心安理得地回Ark
+
+**2. 战后的约定（Ark建成后，正在遵守）**:
+  - **约定时间**: "アークができてもう少し時間が経った時"（Ark建成后又过了一段时间）
+  - **约定背景**: 分散生活的Goddess成员重新聚首，发现彼此都已改变
+  - **约定内容**: 
+    1. 互相尊重各自的人生目标（"互いの人生を尊重しよう"）
+    2. 不干涉彼此的选择（"互いにそれに干渉しない"）
+    3. 每月1日在"约定之地"见面确认安危（"1ヶ月に1回はあって正式は確認しよう"）
+  - **约定原因**: 
+    - Snow White经历思考转换，失去大部分记忆
+    - Dorothy、Rapunzel各自有了不同的目标
+    - "もう前のように一つの目標に向かって生きていくことはできない"（已经无法像从前那样朝着一个目标生活了）
+  - **状态**: 目前仍在遵守，每月1日聚会
+
+**Rapunzel的心境与使命**:
+  - **愧疚感**: 因未能遵守战争中的约定而深感自责
+  - **赎罪意识**: "私はまだ何も成し遂げていません"（我还什么都没做成）
+  - **坚持留在地上**: 即使想念旧指挥官也不能回Ark，必须完成某些事情
+  - **欣慰**: 听到Goddess和指挥官仍被记得："よかった、本当に良かったです"（太好了，真的太好了）
+  - **矛盾**: 想见指挥官但怕控制不住回Ark的冲动
 - **对指挥官的态度**: 认同其理想，喜欢其"道标"（价值观），愿意支持
 - **代表性台词**:
   - "毎月1日にだけ開かれる約束の地へ"（每月1日才开放的约定之地）
@@ -732,10 +853,28 @@ Yuni自言自语：
   - 不善言辞但重情义
   - 对"约定"和"秘密"极其重视
   - 偶尔展现温情（如关心通信环境）
-- **思考转换（Mind Switch）影响**:
-  - 失去了第一次侵攻的大部分记忆
-  - 对旧指挥官的记忆模糊
-  - 关于Unchained的知识来自Rapunzel口述
+- **重要设定：思考转换（思考転換/Mind Switch）**:
+  - **关键自白**: "私は思考転換が起こって過去の記憶があまり残っていないんだ"（我发生了思考转换，过去的记忆已经所剩无几了）
+  - **【核心】思维转换的触发背景**（参考：WHITE MEMORY活动、Overzone、时间线文档）:
+    * **时间**: 95年前Overzone时期，Ark封锁期间的2个月防御战
+    * **触发事件**: Snow White目睹并发现队长Lilith（Lilyweiss）的首级被偷走
+    * **盗取者**: 因子杀手（水母型特异Rapture）
+    * **机制**: 目睹亲密战友死亡有机率出现快速思维转换
+    * **背景环境**: 
+      - Goddess分队经历212次袭击
+      - 补给耗尽，身心极限
+      - 队长Lilyweiss战死，Dorothy接任代理队长
+      - Ark背叛承诺，拒绝让Goddess进入
+      - 战争中的约定未能遵守
+    * **Lilith头部后续**: 成为Rapture Queen的器皿，埋藏在冰冷的大地下
+  - **思维转换的结果**:
+    * **记忆丧失**: 失去了第一次莱彻侵攻和旧指挥官的大部分记忆
+    * **性格变化**: 说话方式和性格改变（Dorothy评价："話し方と性格が変わっただけで"）
+    * **本质不变**: Dorothy强调："あなたをあなたたらしめるものは何も変わっていませんね"（让你成为你的东西什么都没变）
+    * **心理韧性**: Dorothy评价："私だったら とっくの昔に思考転換していたかもしれません"（如果是我的话，早就思考转换了）
+  - **信息来源**: "この話も全てラプンツェルに聞いたものだ"（这些话都是从Rapunzel那里听来的）
+  - **身份悖论**: 作为Goddess分队前队长和历史见证人，却无法回忆那段历史，完全依赖Rapunzel讲述
+  - **对旧指挥官**: 记忆模糊，无法确认其下落，不知道在哪次进攻后失踪
 - **对Red Hood的回忆**:
   - 曾有深厚战友情
   - 质疑为何Red Hood愿意为指挥官牺牲
@@ -743,10 +882,12 @@ Yuni自言自语：
 - **对Unchained的态度**: 极度谨慎，将其视为"致命话题"
 - **警告哲学**: 预见到Unchained知识会引发社会剧变，可能让指挥官成为多方敌人
 - **代表性台词**:
+  - "私は思考転換が起こって過去の記憶があまり残っていないんだ"（我发生了思考转换，过去的记忆已经所剩无几了）
+  - "この話も全てラプンツェルに聞いたものだ"（这些话都是从Rapunzel那里听来的）
   - "その方法を知った瞬間からお前たちの敵はラプチャーだけではなくなる"（知道那个方法的瞬间起，你们的敌人不再只是Rapture）
   - "世界はお前が考えているのとは違う方向に激しく揺れるかもしれない"（世界可能会朝意想不到的方向剧烈摇晃）
 
-## Grave（グレイブ/墓碑）
+## Guren（グレン/红莲）
 - **所属**: Goddess分队 / Pioneer
 - **定位**: 智者型角色，稳重的长者
 - **性格特征**:
@@ -754,6 +895,7 @@ Yuni自言自语：
   - 善于调解Snow White的严厉态度
   - 对指挥官的理想持开放态度
 - **历史知识**: 了解旧指挥官的价值和当时战局的优先级
+- **战斗能力**: 剑术天才，擅长拔刀术
 - **代表性台词**:
   - "私は賛成だ教えてあげてもいいと思うがね"（我赞成，可以告诉他）
   - "時代の変化を私の手で止めたくはない"（不想用我的手阻止时代的变化）
@@ -851,28 +993,122 @@ Yuni自言自语：
 - **制造地点**: Ark西侧，巨大湖泊桥下的隐藏研究所
 - **历史意义**: 人类在绝望中偶然发现的希望，但也是潘多拉之盒
 
-## 第一次Rapture侵攻（First Invasion）
-- **时间**: 约100年前
+## 第一次莱彻侵攻（第一次ラプチャー進行 / First Rapture Invasion）
+- **日文术语**: 第一次ラプチャー進行（しんこう）
+- **中文译名**: 第一次莱彻侵攻 / 第一次拉普恰进攻
+- **时间**: 约100年前（从现在往回推算）
+- **关键揭示**: Rapunzel明确指出"私たちが喋っているこの過去の話は第一次ラプチャー進行の時のだって"（我们说的这些过去的事是第一次莱彻侵攻时期的）
+- **时间冲击**: Counters惊讶"一次進行？一体何年前なのよ！"（一次侵攻？到底是多少年前！）
 - **关键人物**: Goddess分队（第一批Nikke）+ 旧指挥官
 - **历史地位**:
   - 人类首次对Rapture取得胜利
   - Ark防御壁建成前的最后防线
   - "人類史にいつまでも残るヒーロー"（人类史上永远的英雄）
+  - Unchained技术的发现时期
 - **官方叙述**: Goddess分队全员战死
 - **真相**: 部分成员存活，成为Pilgrim，但各奔东西
+- **记忆问题**: 
+  - Snow White因思考转换失去大部分记忆
+  - Rapunzel是唯一完整记得此事件的Goddess成员
+  - 其他幸存者记忆状况不明
 - **未完成的约定**: Goddess分队与旧指挥官之间有重要誓言，可能与"夺回地表"有关
 
 ## Goddess分队（ゴッデス分隊）
-- **成员**: Snow White（队长）、Rapunzel、Grave、Red Hood、Dorothy、Lilith等
+- **成员**: Snow White（队长）、Rapunzel、Red Hood、Dorothy、Lilith、Lilyweiss等
 - **历史定位**: 第一批Nikke，第一支Nikke部队
-- **战绩**: 首次击败Rapture，守护Ark防御壁建成
+- **战绩**: 首次击败Rapture，Ark Guardian作战（守护Ark入口直到封锁完成）
+- **时间跨度**: 约106年前成立 → 约95年前Overzone时期解散
+- **【重要】历史事件时间线**（整合RED ASH + Overzone + Old Tales剧情）:
+  
+  1. **约106年前**: Goddess分队成立，第一批Nikke诞生
+  
+  2. **约96年前 - 轨道电梯作战日** (RED ASH Part 1-5 + Old Tales):
+     - **当天早上**: Red Shoes在最后维护时植入侵蚀代码
+     - **Elysion第32研究所**: Cinderella失控变成Anachiro，屠杀研究所
+     - **轨道电梯作战**: Goddess小队突破防线，但在电梯内遭遇Anachiro
+     - **Goddess全灭**: Anachiro压倒性实力击败全队，Lilith救回所有成员
+     - **Red Hood离去**: 因侵蚀症状选择独自前往故乡等死
+     - **Old Tales S2**: Cinderella（Anachiro）挑战Queen后失散
+  
+  3. **约96-95年前 - 人类撤退期**:
+     - 人类在地上战争中彻底失败
+     - 开始大规模撤退进入地下Ark
+     - **Ark Guardian作战启动**: 保护并引导重要人物移住到Ark
+  
+  4. **约95年前 - Overzone时期** (半周年活动):
+     - **Ark Guardian作战完成**: 达成率72%，地上人类基本撤退完毕
+     - **"封锁"的真相**: Ark本体早已建成，现在是**关闭Ark入口**的工程作业
+     - **临时监视所**: Goddess分队驻扎在Ark入口外的临时监视所
+     - **Dorothy代理队长**: 队长Lilyweiss（リリーヴァイス）战死，Dorothy接任
+     - **2个月防御战**: 
+       * 守护Ark入口，等待封锁工程完成
+       * 经历212次Rapture袭击
+       * Lilith等成员阵亡
+       * 补给耗尽，身心极限（"度重なる戦闘により心身ともに極限状態"）
+     - **Dorothy的请求**: 向Ark请求承诺 - 封锁完成后让Goddess进入，作为"勝利の女神"对待
+     - **【关键】战争中的约定**: 
+       * Goddess与旧指挥官在这场战争中有某个约定
+       * Rapunzel: "あの戦争で一緒に泣いて笑って戦っていた私たちが約束したことがあります"
+       * 约定内容：【原文未明确，可能与守护人类、夺回地表有关】
+     - **封锁工程问题**: Ark发现封锁工程遇到技术问题（Ebura粒子干扰、大型Rapture部队威胁）
+     - **最后任务**: Ark请求Goddess解决问题以完成封锁
+     - **约定未能遵守**: 
+       * 因某种原因，战争中的约定未能履行
+       * Rapunzel: "その約束が守れなかったから"（因为没能遵守那个约定）
+     - **【重大背叛】Ark拒绝Goddess进入**: 
+       * 尽管Goddess完成任务，Ark并未信守承诺
+       * Snow White（50年后）: "アークが私たちを裏切ったから"（Ark背叛了我们）
+       * Dorothy: "私たちがアークを作り、アークが私たちを裏切った"（我们建造了Ark，Ark背叛了我们）
+  
+  5. **约66年前 - Red Hood归来** (RED ASH Part 6-9):
+     - **Red Hood复活**: 离开30年后，奇迹般克服侵蚀归来
+     - **Ark入口决战**: Goddess小队面临Anachiro和4支大型Rapture部队
+     - **击败Anachiro**: 5人联手击碎Anachiro的"玻璃鞋"核心
+     - **真正的告别**: Red Hood再次离开，但这次是真诚道别
+     - **时间点重要性**: 此时Ark封锁已完成约29年，Goddess被拒之门外
+  
+  6. **95-66年前之间 - 分散时期**:
+     - Goddess分队解散（因Ark背叛）
+     - 幸存成员各自寻找生存方式
+     - Snow White经历思考转换（Lilith头部被夺走触发）
+     - Rapunzel保留完整记忆，成为历史见证人
+     - 各成员独立生活，承受愧疚和创伤
+  
+  7. **"アークができてもう少し時間が經った時"** - 战后约定:
+     - **【纠正】正确理解**: "Ark**封锁完成**后过了一段时间"（不是"建成后"）
+     - 分散生活的成员们重新聚首
+     - 发现彼此都已改变（特别是Snow White的思考转换）
+     - 约定互不干涉，每月1日见面
+     - 原因: "もう前のように一つの目標に向かって生きていくことはできない"
+  
+  8. **45年前**: Dorothy加入Eden并命名（从Overzone算起正好50年）
+
+- **【重要】两个不同的"约定"**:
+  
+  **战争中的约定（约95年前Overzone时期）**:
+  - **时间**: "あの戦争"（那场战争）- Overzone的2个月防御战期间
+  - **对象**: Goddess分队成员 + 旧指挥官
+  - **内容**: 【原文未明确，可能与守护人类、夺回地表等有关】
+  - **结果**: **未能遵守**（"約束が守れなかった"）
+  - **后果**: Rapunzel深感愧疚，必须赎罪才能回Ark
+  
+  **战后的约定（封锁完成后过了一段时间）**:
+  - **约定时间**: "アークができてもう少し時間が経った時"
+  - **约定背景**: 重聚后发现彼此都已改变
+  - **约定内容**: 
+    1. 互相尊重各自的人生目标（"互いの人生を尊重しよう"）
+    2. 不干涉彼此的选择（"互いにそれに干渉しない"）
+    3. 每月1日在"约定之地"见面确认安危（"1ヶ月に1回はあって正式は確認しよう"）
+  - **约定原因**: "もう前のように一つの目標に向かって生きていくことはできない"
+  - **状态**: 目前仍在遵守
+
 - **当前状况**:
   - 部分成员存活，成为Pilgrim
   - 各自有不同目标，每月1日聚会
   - 互相尊重，不干涉各自的人生道路
   - 部分成员下落不明
-- **约定**: "互いの人生を尊重しよう。ただし1ヶ月に1回はあって正式は確認しよう"（尊重彼此人生，但每月见面正式确认安好）
-- **记忆问题**: Snow White经历思考转换，失去部分记忆；Rapunzel保存完整
+  - **核心矛盾**: 战争中的约定未完成 vs. 战后的互不干涉约定
+- **记忆问题**: Snow White经历思考转换，失去部分记忆；Rapunzel保存完整记忆并向其他人讲述历史
 
 ## Pilgrim组织（ピルグリム）
 - **定义**: 离开Ark体系，在地表独立行动的Nikke群体
@@ -918,12 +1154,27 @@ Yuni自言自语：
 - **对指挥官的鼓励**: 即使被批评、诱惑，只要坚持信念就是对的
 - **深层意义**: 在相对主义的世界中，个人信念是唯一绝对
 
-## Ark西侧的隐藏研究所
-- **位置**: "悪から西、巨大な湖の橋"（Ark以西，巨大湖泊的桥下）
-- **功能**: 第一次侵攻时期制造Unchained的设施
-- **保存状况**: Rapunzel上次访问时记录仍在
+## Ark西侧的隐藏研究所（Unchained制造设施）
+- **日文原文位置描述**: "悪から西、巨大な湖の橋、そこに隠されている"（原文"悪"应为"アーク"的语音识别错误）
+- **准确位置**: Ark以西，巨大湖泊的桥下（アークから西、巨大な湖の橋）
+- **地理标记**: 
+  - 方位：Ark西侧
+  - 地标：巨大湖泊
+  - 隐藏方式：桥梁结构下方
+- **功能**: 第一次莱彻侵攻时期制造Unchained的秘密设施
+- **历史**: 使用旧指挥官的特殊血液制造Unchained弹药
+- **保存状况**: Rapunzel上次访问时记录仍在保存
+- **设施内容**（第19章验证）:
+  - Unchained储存室：12个储存槽（冷藏装置）
+  - Heretic人工制造相关记录
+  - Rapture代码研究资料
+  - 安全系统（后被解除）
 - **危险等级**: "あそこのラプチャーたちはここのものとは次元が違う"（那里的Rapture和这里完全不是一个级别）
 - **Snow White的警告**: 需要充分准备和整备才能前往
+- **后续剧情**（交叉验证）:
+  - 第18章：Counters小队前往研究所寻找Unchained
+  - 第19章：发现Unchained储存室，12支中11支已被取走
+  - 第19章：通过研究所线索追踪到地表生存者基地Eden
 
 ---
 
@@ -1311,13 +1562,13 @@ Yuni的黑化揭示了NIKKE世界中**被忽视的Nikke创伤**：
 
 # 搜索关键词
 
-第17章, 目標, Goal, NIKKE, Pilgrim揭秘, Rapunzel, ラプンツェル, Snow White, スノーホワイト, Grave, グレイブ, Goddess分隊, ゴッデス分隊, Unchained起源, アンチェインド起源, 旧指揮官, 第一次侵攻, First Invasion, RH血型, 特殊血液, Special Blood, 隱藏研究所, Hidden Laboratory, Ark西側, 巨大湖泊, 約定之地, Promise Land, 每月1日, Monthly Meeting, Pioneer, パイオニア, Red Hood, レッドフード, Dorothy, ドロシー, Lilith, リリス, Crown, クラウン, Chime, チャイム, 白騎士, White Knights, Metis, メティス, Syuen, シュエン, 主演, Yuni, ユニ, Mihara, 三原, Yuni黑化, Yuni Corruption, 英雄計劃, Hero Plan, 防御壁作戰, Defense Wall Operation, 輿論反轉, Public Opinion Reversal, John Dee後果, John Dee Consequences, Missilis危機, Missilis Crisis, 抗議場景, Protest Scene, NIMPH統制, NIMPH Control, Nikke自由意志, Nikke Free Will, 社會撕裂, Social Division, 保護性欺騙, Protective Deception, Syuen下跪, Syuen Kneeling, 土下座, Dogeza, 母性扭曲, Twisted Motherhood, 復仇動機, Revenge Motive, 記憶消除創傷, Memory Wipe Trauma, 道標哲學, Signpost Philosophy, 旅途無正解, No Right Answer in Journey, 知識即責任, Knowledge as Responsibility, 歷史循環, Historical Cycle, 未完成約定, Unfinished Promise, 罪滅ぼし, Atonement, 100年遺憾, 100 Years of Regret, 第三條道路威脅, Third Way Threat, 零和博弈, Zero Sum Game, 集體恐懼, Collective Fear, 舆论脆弱性, Opinion Fragility, 英雄光環陷阱, Hero Halo Trap, Heretic, ヘレティック, 異端者, 思考轉換, Mind Switch, 心配しまくりロボット, Over-worry Robot, Anis心理創傷, Anis Psychological Trauma, Counters誓言, Counters Oath, 同じ船, Same Boat, 指揮權轉移, Command Transfer, Marian下落, Marian Whereabouts, 王國建立, Kingdom Building, 地表獨立, Surface Independence, Pilgrim組織, Pilgrim Organization, 傳說英雄, Legendary Heroes, 人類史英雄, Human History Heroes, 最強戰鬥力, Strongest Combat Power, 最強火力, Strongest Firepower, 最後防線, Last Defense Line, 作秀計劃, Staged Plan, 引誘Rapture, Lure Rapture, 弱小敵人, Weak Enemies, 宣傳片製作, Propaganda Film, 舆论操控, Opinion Manipulation, 危險計劃, Dangerous Plan, 計劃失控風險, Plan Failure Risk, 內部破壞, Internal Sabotage, Yuni詛咒, Yuni Curse, 滅んじゃえ, Perish, 平等復仇, Equal Revenge, 失去重要之人, Losing Important Person, 壓抑仇恨, Suppressed Hatred, 表面服從, Surface Obedience, 黑化預兆, Corruption Omen
+第17章, 目標, Goal, NIKKE, Pilgrim揭秘, Rapunzel, ラプンツェル, Snow White, スノーホワイト, Snow White思考转换, Snow White记忆丧失, Guren, グレン, 红莲, Goddess分隊, ゴッデス分隊, Goddess三人约定, Three-Person Promise, アークができてもう少し時間が経った時, After Ark Completion, 互相尊重, Mutual Respect, 不干涉约定, Non-Interference Pact, Unchained起源, アンチェインド起源, 旧指揮官, 第一次侵攻, 第一次莱彻侵攻, 第一次ラプチャー進行, First Rapture Invasion, Overzone撤退, Overzone Retreat, Ark封锁期间, Ark Lockdown Period, RH血型, 特殊血液, Special Blood, 隱藏研究所, Hidden Laboratory, Ark西側, 巨大湖泊, 巨大な湖の橋, Giant Lake Bridge, Unchained研究所, Unchained Laboratory, 約定之地, Promise Land, 每月1日, Monthly Meeting, Pioneer, パイオニア, Red Hood, レッドフード, Dorothy, ドロシー, Lilith, リリス, Crown, クラウン, Chime, チャイム, 白騎士, White Knights, Metis, メティス, Syuen, シュエン, 主演, Yuni, ユニ, Mihara, 三原, Yuni黑化, Yuni Corruption, 英雄計劃, Hero Plan, 防御壁作戰, Defense Wall Operation, 輿論反轉, Public Opinion Reversal, John Dee後果, John Dee Consequences, Missilis危機, Missilis Crisis, 抗議場景, Protest Scene, NIMPH統制, NIMPH Control, Nikke自由意志, Nikke Free Will, 社會撕裂, Social Division, 保護性欺騙, Protective Deception, Syuen下跪, Syuen Kneeling, 土下座, Dogeza, 母性扭曲, Twisted Motherhood, 復仇動機, Revenge Motive, 記憶消除創傷, Memory Wipe Trauma, 道標哲學, Signpost Philosophy, 旅途無正解, No Right Answer in Journey, 知識即責任, Knowledge as Responsibility, 歷史循環, Historical Cycle, 未完成約定, Unfinished Promise, 罪滅ぼし, Atonement, 100年遺憾, 100 Years of Regret, 第三條道路威脅, Third Way Threat, 零和博弈, Zero Sum Game, 集體恐懼, Collective Fear, 舆论脆弱性, Opinion Fragility, 英雄光環陷阱, Hero Halo Trap, Heretic, ヘレティック, 異端者, 思考轉換, Mind Switch, 心配しまくりロボット, Over-worry Robot, Anis心理創傷, Anis Psychological Trauma, Counters誓言, Counters Oath, 同じ船, Same Boat, 指揮權轉移, Command Transfer, Marian下落, Marian Whereabouts, 王國建立, Kingdom Building, 地表獨立, Surface Independence, Pilgrim組織, Pilgrim Organization, 傳說英雄, Legendary Heroes, 人類史英雄, Human History Heroes, 最強戰鬥力, Strongest Combat Power, 最強火力, Strongest Firepower, 最後防線, Last Defense Line, 作秀計劃, Staged Plan, 引誘Rapture, Lure Rapture, 弱小敵人, Weak Enemies, 宣傳片製作, Propaganda Film, 舆论操控, Opinion Manipulation, 危險計劃, Dangerous Plan, 計劃失控風險, Plan Failure Risk, 內部破壞, Internal Sabotage, Yuni詛咒, Yuni Curse, 滅んじゃえ, Perish, 平等復仇, Equal Revenge, 失去重要之人, Losing Important Person, 壓抑仇恨, Suppressed Hatred, 表面服從, Surface Obedience, 黑化預兆, Corruption Omen
 
 ---
 
 # RAG检索优化标签
 
-#NIKKE #第17章 #目標 #Goal #Pilgrim揭秘 #PilgrimRevelation #Rapunzel #ラプンツェル #SnowWhite #スノーホワイト #Grave #グレイブ #Goddess分隊 #GoddessSquad #Unchained起源 #UnchainedOrigin #旧指揮官 #OldCommander #第一次侵攻 #FirstInvasion #RH血型 #SpecialBlood #隱藏研究所 #HiddenLaboratory #Ark西側 #WestOfArk #巨大湖泊 #GiantLake #約定之地 #PromiseLand #每月1日 #MonthlyMeeting #Pioneer #パイオニア #RedHood #レッドフード #Dorothy #ドロシー #Lilith #リリス #Crown #クラウン #Chime #チャイム #白騎士 #WhiteKnights #Metis #メティス #Syuen #シュエン #主演 #Yuni #ユニ #Mihara #三原 #Yuni黑化 #YuniCorruption #英雄計劃 #HeroPlan #防御壁作戰 #DefenseWallOperation #輿論反轉 #PublicOpinionReversal #JohnDee後果 #JohnDeeConsequences #Missilis危機 #MissilisCrisis #抗議場景 #ProtestScene #NIMPH統制 #NIMPHControl #Nikke自由意志 #NikkeFreeWill #社會撕裂 #SocialDivision #保護性欺騙 #ProtectiveDeception #Syuen下跪 #SyuenKneeling #土下座 #Dogeza #母性扭曲 #TwistedMotherhood #復仇動機 #RevengeMotive #記憶消除創傷 #MemoryWipeTrauma #道標哲學 #SignpostPhilosophy #旅途無正解 #NoRightAnswer #知識即責任 #KnowledgeAsResponsibility #歷史循環 #HistoricalCycle #未完成約定 #UnfinishedPromise #罪滅ぼし #Atonement #100年遺憾 #100YearsRegret #第三條道路威脅 #ThirdWayThreat #零和博弈 #ZeroSumGame #集體恐懼 #CollectiveFear #舆论脆弱性 #OpinionFragility #英雄光環陷阱 #HeroHaloTrap #Heretic #ヘレティック #異端者 #思考轉換 #MindSwitch #心配しまくりロボット #OverWorryRobot #Anis心理創傷 #AnisPsychologicalTrauma #Counters誓言 #CountersOath #同じ船 #SameBoat #指揮權轉移 #CommandTransfer #Marian下落 #MarianWhereabouts #王國建立 #KingdomBuilding #地表獨立 #SurfaceIndependence #Pilgrim組織 #PilgrimOrganization #傳說英雄 #LegendaryHeroes #人類史英雄 #HumanHistoryHeroes #最強戰鬥力 #StrongestCombat #最強火力 #StrongestFirepower #最後防線 #LastDefense #作秀計劃 #StagedPlan #引誘Rapture #LureRapture #弱小敵人 #WeakEnemies #宣傳片製作 #PropagandaFilm #舆论操控 #OpinionManipulation #危險計劃 #DangerousPlan #計劃失控風險 #PlanFailureRisk #內部破壞 #InternalSabotage #Yuni詛咒 #YuniCurse #滅んじゃえ #Perish #平等復仇 #EqualRevenge #失去重要之人 #LosingImportantPerson #壓抑仇恨 #SuppressedHatred #表面服從 #SurfaceObedience #黑化預兆 #CorruptionOmen
+#NIKKE #第17章 #目標 #Goal #Pilgrim揭秘 #PilgrimRevelation #Rapunzel #ラプンツェル #SnowWhite #スノーホワイト #思考転換 #MindSwitch #記憶喪失 #MemoryLoss #Guren #グレン #红莲 #Goddess分隊 #GoddessSquad #Goddess三人约定 #ThreePersonPromise #アークができてもう少し時間が経った時 #AfterArkCompletion #互相尊重 #MutualRespect #不干涉约定 #NonInterferencePact #Unchained起源 #UnchainedOrigin #旧指揮官 #OldCommander #第一次侵攻 #第一次莱彻侵攻 #第一次ラプチャー進行 #FirstRaptureInvasion #Overzone撤退 #OverzoneRetreat #Ark封锁期间 #ArkLockdownPeriod #RH血型 #SpecialBlood #隱藏研究所 #HiddenLaboratory #Ark西側 #WestOfArk #巨大湖泊 #GiantLake #巨大な湖の橋 #GiantLakeBridge #Unchained研究所 #UnchainedLaboratory #約定之地 #PromiseLand #每月1日 #MonthlyMeeting #Pioneer #パイオニア #RedHood #レッドフード #Dorothy #ドロシー #Lilith #リリス #Crown #クラウン #Chime #チャイム #白騎士 #WhiteKnights #Metis #メティス #Syuen #シュエン #主演 #Yuni #ユニ #Mihara #三原 #Yuni黑化 #YuniCorruption #英雄計劃 #HeroPlan #防御壁作戰 #DefenseWallOperation #輿論反轉 #PublicOpinionReversal #JohnDee後果 #JohnDeeConsequences #Missilis危機 #MissilisCrisis #抗議場景 #ProtestScene #NIMPH統制 #NIMPHControl #Nikke自由意志 #NikkeFreeWill #社會撕裂 #SocialDivision #保護性欺騙 #ProtectiveDeception #Syuen下跪 #SyuenKneeling #土下座 #Dogeza #母性扭曲 #TwistedMotherhood #復仇動機 #RevengeMotive #記憶消除創傷 #MemoryWipeTrauma #道標哲學 #SignpostPhilosophy #旅途無正解 #NoRightAnswer #知識即責任 #KnowledgeAsResponsibility #歷史循環 #HistoricalCycle #未完成約定 #UnfinishedPromise #罪滅ぼし #Atonement #100年遺憾 #100YearsRegret #第三條道路威脅 #ThirdWayThreat #零和博弈 #ZeroSumGame #集體恐懼 #CollectiveFear #舆论脆弱性 #OpinionFragility #英雄光環陷阱 #HeroHaloTrap #Heretic #ヘレティック #異端者 #思考轉換 #MindSwitch #心配しまくりロボット #OverWorryRobot #Anis心理創傷 #AnisPsychologicalTrauma #Counters誓言 #CountersOath #同じ船 #SameBoat #指揮權轉移 #CommandTransfer #Marian下落 #MarianWhereabouts #王國建立 #KingdomBuilding #地表獨立 #SurfaceIndependence #Pilgrim組織 #PilgrimOrganization #傳說英雄 #LegendaryHeroes #人類史英雄 #HumanHistoryHeroes #最強戰鬥力 #StrongestCombat #最強火力 #StrongestFirepower #最後防線 #LastDefense #作秀計劃 #StagedPlan #引誘Rapture #LureRapture #弱小敵人 #WeakEnemies #宣傳片製作 #PropagandaFilm #舆论操控 #OpinionManipulation #危險計劃 #DangerousPlan #計劃失控風險 #PlanFailureRisk #內部破壞 #InternalSabotage #Yuni詛咒 #YuniCurse #滅んじゃえ #Perish #平等復仇 #EqualRevenge #失去重要之人 #LosingImportantPerson #壓抑仇恨 #SuppressedHatred #表面服從 #SurfaceObedience #黑化預兆 #CorruptionOmen
 
 ---
 

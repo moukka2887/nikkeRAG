@@ -40,6 +40,13 @@ temp/*_log.txt
 # Unused/backup files
 unused/
 temp/
+archive/
+
+# GCP credentials (security)
+gpcAuth/
+
+# Downloaded video files (too large for git)
+dev-references/dlYTvideo/
 
 # GitHub instructions (if needed, remove this line to include)
 .github/instructions/codacy.instructions.md

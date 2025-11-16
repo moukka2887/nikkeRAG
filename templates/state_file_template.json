@@ -1,0 +1,128 @@
+{
+  "_comment": "State File Template for Long-Running Agent Operations",
+  "_version": "1.0.0",
+  "_usage": "Copy this template and customize for your agent's state persistence needs",
+
+  "session_id": "YYYYMMDD_HHMMSS",
+  "agent": "agent-name",
+  "operation": "operation-description",
+  "operation_params": {
+    "param1": "value1",
+    "param2": "value2",
+    "_comment": "Add all operation parameters here for resume context"
+  },
+
+  "current_state": "INITIALIZED",
+  "_available_states": [
+    "INITIALIZED",
+    "ANALYZING",
+    "PLANNING",
+    "EXECUTING",
+    "VERIFYING",
+    "REPORTING",
+    "COMPLETED",
+    "FAILED",
+    "BLOCKED"
+  ],
+
+  "started_at": "2025-11-13T01:45:32Z",
+  "last_updated": "2025-11-13T01:45:32Z",
+  "estimated_completion": "2025-11-13T02:30:00Z",
+
+  "progress": {
+    "total_items": 0,
+    "completed_items": 0,
+    "failed_items": 0,
+    "skipped_items": 0,
+    "current_item": {
+      "index": null,
+      "id": null,
+      "started_at": null
+    },
+    "percentage": 0
+  },
+
+  "results": [
+    {
+      "_example": "Result entry structure",
+      "item": "item-identifier",
+      "status": "success|failed|skipped",
+      "output_file": "/path/to/output.ext",
+      "duration_ms": 0,
+      "error": null,
+      "metadata": {}
+    }
+  ],
+
+  "data": {
+    "_comment": "Operation-specific data needed for resumption",
+    "_examples": {
+      "last_processed_file": "/path/to/file",
+      "accumulated_results": [],
+      "intermediate_state": {}
+    }
+  },
+
+  "checkpoints": [
+    {
+      "state": "INITIALIZED",
+      "timestamp": "2025-11-13T01:45:32Z",
+      "note": "Operation started",
+      "data": {}
+    }
+  ],
+
+  "errors": [
+    {
+      "id": "ERR_001",
+      "timestamp": "2025-11-13T01:50:15Z",
+      "classification": "transient|critical|warning",
+      "type": "ErrorType",
+      "message": "Error description",
+      "context": {
+        "operation": "specific-operation",
+        "item": "item-id",
+        "parameters": {}
+      },
+      "stack_trace": null,
+      "recovery_action": "retry|skip|escalate",
+      "user_notified": false
+    }
+  ],
+
+  "metrics": {
+    "total_duration_ms": 0,
+    "average_item_duration_ms": 0,
+    "success_rate": 0.0,
+    "retry_count": 0,
+    "total_errors": 0
+  },
+
+  "status": "running",
+  "_available_statuses": [
+    "running",
+    "completed",
+    "failed",
+    "aborted",
+    "stale"
+  ],
+
+  "resume_instructions": {
+    "_comment": "Instructions for resuming this operation",
+    "can_resume": true,
+    "resume_from_state": "EXECUTING",
+    "resume_from_item": null,
+    "skip_completed": true,
+    "notes": ""
+  },
+
+  "metadata": {
+    "agent_version": "1.0.0",
+    "state_file_version": "1.0.0",
+    "environment": {
+      "working_directory": "/mnt/f/nikkerag",
+      "python_version": "3.12",
+      "platform": "linux"
+    }
+  }
+}

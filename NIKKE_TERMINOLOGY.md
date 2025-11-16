@@ -39,10 +39,10 @@
 #### Anis (アニス)
 - **Japanese**: アニス
 - **English**: Anis
-- **Chinese**: 安妮丝
+- **Chinese**: 阿妮斯
 - **Squad**: Counters
 - **Manufacturer**: Tetra Line
-- **Common Errors**: アニース, アニシュ
+- **Common Errors**: アニース, アニシュ, 安妮丝
 - **Personality**: Laid-back, sarcastic, cola enthusiast, secretly caring
 
 #### Neon (ネオン)
@@ -63,6 +63,7 @@
 - **Role**: Operations coordinator, Counters support
 - **Affiliation**: Elysion
 - **Common Errors**: マリア, マリアーン
+- **Notes**: Not to be confused with Mary (梅莉/玛丽)
 
 #### Shifty / Shift Up (シフティ)
 - **Japanese**: シフティ
@@ -84,10 +85,10 @@
 #### Privaty (プリバティ)
 - **Japanese**: プリバティ
 - **English**: Privaty
-- **Chinese**: 普里瓦蒂
+- **Chinese**: 普丽瓦蒂
 - **Squad**: Wardress
 - **Manufacturer**: Elysion
-- **Common Errors**: プライバシー, プリバーティ
+- **Common Errors**: プライバシー, プリバーティ, 普里瓦蒂
 
 ### Human Leadership
 
@@ -120,10 +121,12 @@
 #### Abe (アーベ)
 - **Japanese**: アーベ
 - **English**: Abe
-- **Chinese**: 阿贝
-- **Role**: Heretic, former human scientist
-- **Common Errors**: アベ, アービー
-- **Notes**: Often appears mysteriously
+- **Chinese**: 艾比
+- **Role**: Heretic, former human scientist, Ark Elder
+- **Common Errors**: アベ, アービー, 阿贝
+- **Nikke Form**: Grave (グレイブ/格拉维) - Inherit Squad, Elysion manufacturer
+- **Identity Revelation**: Chapter 36 confirms Grave is Abe's consciousness transferred into Nikke body
+- **Notes**: Creator of 2nd generation Fairy Tale models. Appears as both scientist (96 years ago) and Ark Elder (current timeline). Also known as "最も頭の良い鏡" (the wisest mirror) in Cinderella's memories
 
 #### Chatterbox (チャターボックス)
 - **Japanese**: チャターボックス
@@ -140,6 +143,104 @@
 - **Common Errors**: モダーニア, モダニヤ, 莫德妮娅
 - **Notes**: Corrupted NIKKE
 
+### Goddess Squad & Legendary Characters
+
+#### Dorothy (ドロシー)
+- **Japanese**: ドロシー
+- **English**: Dorothy
+- **Chinese**: 桃乐丝
+- **Type**: Pilgrim, former Goddess Squad
+- **Common Errors**: ドロティ, 多萝西
+
+#### Snow White (白雪姫)
+- **Japanese**: 白雪姫
+- **English**: Snow White
+- **Chinese**: 白雪公主
+- **Type**: Pilgrim, former Goddess Squad
+- **Common Errors**: スノーホワイト, 白雪
+
+#### Rapunzel (ラプンツェル)
+- **Japanese**: ラプンツェル
+- **English**: Rapunzel
+- **Chinese**: 长发公主
+- **Type**: Pilgrim, former Goddess Squad
+- **Common Errors**: ラプンゼル, 乐佩
+
+#### Red Hood (赤ずきん)
+- **Japanese**: 赤ずきん
+- **English**: Red Hood
+- **Chinese**: 小红帽
+- **Type**: Legendary heroine
+- **Common Errors**: レッドフード, 红帽
+
+#### Cinderella (シンデレラ)
+- **Japanese**: シンデレラ
+- **English**: Cinderella
+- **Chinese**: 灰姑娘
+- **Type**: Legendary heroine
+- **Common Errors**: シンデレア, 仙杜瑞拉
+
+### Popular Characters (High Tier)
+
+#### Liter (リター) / 丽塔
+- **Japanese**: リター
+- **English**: Liter
+- **Chinese**: 丽塔
+- **Squad**: Absolute
+- **Manufacturer**: Missilis Industry
+- **Common Errors**: リタ, 莉塔
+- **Notes**: Top-tier support character
+
+#### Crown (クラウン)
+- **Japanese**: クラウン
+- **English**: Crown
+- **Chinese**: 皇冠
+- **Squad**: Unlimited
+- **Manufacturer**: Tetra Line
+- **Common Errors**: クラウ, 王冠
+
+#### Grave (グレイブ)
+- **Japanese**: グレイブ
+- **English**: Grave
+- **Chinese**: 格拉维
+- **Squad**: Inherit
+- **Manufacturer**: Elysion
+- **Common Errors**: グラビ, 格雷夫
+- **Identity**: Abe (艾比) in Heretic form. Created as Nikke from scientist Abe's consciousness
+- **Notes**: In Chapter 36, Cinderella recognizes Grave as "Abe" (エイブ), confirming they are the same person
+
+#### Guren (グレン)
+- **Japanese**: グレン
+- **English**: Guren / Glen
+- **Chinese**: 红莲
+- **Squad**: Goddess (Pioneer)
+- **Common Errors**: グレイブ, Grave
+- **Notes**: Member of Goddess Squad. Often mistaken for Grave (グレイブ) due to similar romanization
+
+#### Naga (ナガ)
+- **Japanese**: ナガ
+- **English**: Naga
+- **Chinese**: 娜嘉
+- **Squad**: Exotic
+- **Manufacturer**: Tetra Line
+- **Common Errors**: ナーガ, 娜迦
+
+#### Blanc (ブラン) / 布兰儿
+- **Japanese**: ブラン
+- **English**: Blanc
+- **Chinese**: 布兰儿
+- **Squad**: Blanc & Noir
+- **Manufacturer**: Tetra Line
+- **Common Errors**: ブランシュ, 布兰克
+
+#### Noir (ノワール) / 诺薇儿
+- **Japanese**: ノワール
+- **English**: Noir
+- **Chinese**: 诺薇儿
+- **Squad**: Blanc & Noir
+- **Manufacturer**: Tetra Line
+- **Common Errors**: ノア, 诺瓦尔
+
 ---
 
 ## Locations
@@ -154,7 +255,7 @@
 ### Surface / 地表 (Chihyou)
 - **Japanese**: 地表
 - **English**: Surface
-- **Chinese**: 地表
+- **Chinese**: 地面
 - **Description**: Rapture-controlled surface world
 - **Common Errors**: 地上 (technically different but often used interchangeably)
 
@@ -247,9 +348,10 @@
 #### Rapture (ラプチャー)
 - **Japanese**: ラプチャー
 - **English**: Rapture
-- **Chinese**: 拉普拉斯 / 敌人
+- **Chinese**: 莱彻
 - **Description**: Machine lifeforms invading Earth
-- **Common Errors**: ラプチ, ラプター, レプチャー
+- **Common Errors**: ラプチ, ラプター, レプチャー, 拉普拉斯, 敌人, 拉普恰
+- **Notes**: "拉普拉斯" refers to character Laplace, not Rapture enemy type
 
 #### Heretics (異端者)
 - **Japanese**: 異端者
@@ -332,12 +434,12 @@
 
 ## Story-Specific Terms
 
-### Pilgrims (ピルグリム)
+#### Pilgrims (ピルグリム)
 - **Japanese**: ピルグリム
 - **English**: Pilgrims
 - **Chinese**: 朝圣者
 - **Description**: Independent NIKKE not affiliated with manufacturers
-- **Notable Members**: Scarlet, Dorothy, Snow White
+- **Notable Members**: Scarlet (斯卡雷特), Dorothy (桃乐丝), Snow White (白雪公主), Rapunzel (长发公主)
 - **Common Errors**: ピルグリ, ピルグリム
 
 ### Old Tales (昔話)
